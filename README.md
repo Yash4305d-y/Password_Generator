@@ -1,7 +1,7 @@
 
 # Password Generator
 
-A Quick Password Generator according to your requirements using alphabet, special characters and numbers
+A Quick Password Generator using alphabet, special characters and numbers
 
 
 
